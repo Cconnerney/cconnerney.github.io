@@ -1,4 +1,11 @@
-<!DOCTYPE html>
+---
+layout: post
+title: Yelp API & Web Scraping
+description: Using the Yelp API, acquire all of the restaurants in a city, parse a restaurant yelp page, and extract all the reviews for a restaurant. 
+img: yelp.jpg # Add image post (optional)
+tags: [API, Yelp, Jupyter]
+---
+
 <html>
 <head><meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
