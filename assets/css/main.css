@@ -773,8 +773,8 @@ html {
 }
 
 body {
-  font-family: 'Lato', sans-serif;
-  color: #515151;
+  font-family: 'Lato', sans-serif !important;
+  color: #515151 !important;
   background-color: #fbfbfb;
   margin: 0;
   -webkit-font-smoothing: antialiased;
