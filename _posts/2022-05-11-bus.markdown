@@ -1,4 +1,11 @@
-<!DOCTYPE html>
+---
+layout: post
+title: Visualizing Bus Bunching
+description: Analysis and visualization of time-series data with Pittsburgh Port Authority's TrueTime data.
+img: bus.jpg # Add image post (optional)
+tags: [Vizualization, Timeseries, matplotlib]
+---
+
 <html>
 <head><meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
