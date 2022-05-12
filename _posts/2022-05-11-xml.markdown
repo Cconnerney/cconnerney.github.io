@@ -1,4 +1,11 @@
-<!DOCTYPE html>
+---
+layout: post
+title: Wikipedia QA
+description: Use regex to write a function that will parse (a simplified version of) XML files into a Python object.
+img: xml.jpg # Add image post (optional)
+tags: [XML, Parsing]
+---
+
 <html>
 <head><meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
