@@ -1,4 +1,11 @@
-<!DOCTYPE html>
+---
+layout: post
+title: K means Face Modeling
+description: Exploring the K-means algorithm in the context of face modeling. The dataset is from Faces in the Wild, a collection of recognized pictures of faces. A subset of the images have been cropped, resized, and turned into black and white.
+img: uns.jpg # Add image post (optional)
+tags: [Kmeans, plot, unsupervised]
+---
+
 <html>
 <head><meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
