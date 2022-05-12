@@ -1,4 +1,11 @@
-<!DOCTYPE html>
+---
+layout: post
+title: Dijkstra & PageRank
+description: This graphing library uses both the adjacency dictionary and the sparse adjacency matrix representation of a graph.  Using these two representations, it implements two of the more well-known large-scale graph processing algorithms: Dijkstra's algorithm for finding single-source shortest paths in the graph, and the PageRank algorithm for determining the importance of nodes in the network.
+img: pipeline.jpg # Add image post (optional)
+tags: [Dijkstra, PageRank]
+---
+
 <html>
 <head><meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
