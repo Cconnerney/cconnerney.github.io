@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wikipedia QA
+title: XML Parsing
 description: Use regex to write a function that will parse (a simplified version of) XML files into a Python object.
 img: xml.jpg # Add image post (optional)
 tags: [XML, Parsing]
