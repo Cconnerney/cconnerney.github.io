@@ -6,7 +6,6 @@ img: gd.jpg # Add image post (optional)
 tags: [Regression, NLP, ML]
 ---
 
-<!DOCTYPE html>
 <html>
 <head><meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
