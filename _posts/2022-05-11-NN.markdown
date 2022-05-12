@@ -1,4 +1,11 @@
-<!DOCTYPE html>
+---
+layout: post
+title: Neural Network
+description: The model implements an image classification system using a single hidden layer neural network with Adagrad, a variant of stochastic gradient descent. The neural net creates an optical character recognizer with sigmoid activations and softmax output. 
+img: pics.jpg # Add image post (optional)
+tags: [ML, NeuralNetwork]
+---
+
 <html>
 <head><meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
