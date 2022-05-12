@@ -1,4 +1,13 @@
-<!DOCTYPE html>
+
+---
+layout: post
+title: Q-Learning
+description: The model implements a reinforcement learning algorithm for solving the classic mountain-car environment. The model is implemented using Q-learning with linear function approximation to initialize, train, evaluate, and obtain the optimal policies and action values.
+img: MC.jpg # Add image post (optional)
+tags: [MountainCar, ML, RL]
+---
+
+
 <html>
 <head><meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
