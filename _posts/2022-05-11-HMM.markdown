@@ -1,4 +1,11 @@
-<!DOCTYPE html>
+---
+layout: post
+title: Hidden Markov Model
+description: The model implements a named entity recognition system using Hidden Markov Models (HMMs). Named entity recognition (NER) is the task of classifying named entities, typically proper nouns, into pre-defined categories, such as person, location, organization. 
+img: trans.jpg # Add image post (optional)
+tags: [HMM, ML]
+---
+
 <html>
 <head><meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
