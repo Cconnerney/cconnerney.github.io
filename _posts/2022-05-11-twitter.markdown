@@ -1,4 +1,11 @@
-<!DOCTYPE html>
+---
+layout: post
+title: Twitter Relational Data in SQL
+description: Implements a Simple Tweet Recommender (STR), which recommends a user's tweets to all users who follow them, loads data in SQL, and plots distributions in data.
+img: twit.jpg # Add image post (optional)
+tags: [Twitter, Graphs, Recommender]
+---
+
 <html>
 <head><meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13317,39 +13324,6 @@ div#notebook {
 </pre></div>
 
     </div>
-</div>
-</div>
-
-<div class="output_wrapper">
-<div class="output">
-
-<div class="output_area">
-
-<div class="output_subarea output_stream output_stdout output_text">
-<pre>                 name      screen_name      location  \
-0     Donald J. Trump  realDonaldTrump  New York, NY   
-1  Trump Organization            Trump  New York, NY   
-2          Trump Golf        TrumpGolf                 
-3       Tiffany Trump    TiffanyATrump                 
-4      Laura Ingraham    IngrahamAngle            DC   
-
-                       created_at  friends_count  followers_count  \
-0  Wed Mar 18 13:46:38 +0000 2009             42         11397769   
-1  Wed Apr 13 16:51:54 +0000 2016             35             9954   
-2  Mon Feb 03 13:46:03 +0000 2014            200             8797   
-3  Tue Feb 01 20:59:30 +0000 2011             79            63138   
-4  Thu Jun 25 21:03:25 +0000 2009            289           851876   
-
-   statuses_count  favourites_count  
-0           33136                38  
-1              43               125  
-2             758               251  
-3             573                28  
-4           26523                71  
-</pre>
-</div>
-</div>
-
 </div>
 </div>
 
