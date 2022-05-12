@@ -1,4 +1,11 @@
-<!DOCTYPE html>
+---
+layout: post
+title: NLP Federalist Papers
+description: Using two techniques to analyze free text documents: a bag of words approach based on a TFIDF matrix and an n-gram language model. The Federalist papers were a series of essays written in 1787 and 1788 by Alexander Hamilton, James Madison, and John Jay (they were published anonymously at the time), that promoted the ratification of the U.S. Constitution. 
+img: fp.jpg # Add image post (optional)
+tags: [Ngram, TFIDF, NLP, perplexity]
+---
+
 <html>
 <head><meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
