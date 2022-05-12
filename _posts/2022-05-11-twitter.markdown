@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Twitter Relational Data in SQL
-description: Implements a Simple Tweet Recommender (STR), which recommends a user's tweets to all users who follow them, loads data in SQL, and plots distributions in data.
+description: Implements a Simple Tweet Recommender (STR), which recommends a user's tweets to all users who follow them, loads data in SQL, and plots distributions in data. 
 img: twit.jpg # Add image post (optional)
 tags: [Twitter, Graphs, Recommender]
 ---
