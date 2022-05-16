@@ -1,4 +1,11 @@
-<!DOCTYPE html>
+---
+layout: post
+title: Collaborative Filtering
+description: Use collaborative filtering to make movie recommendations. In collaborative filtering, we take the matrix of user ratings factorize it into user-related features and movie-related features. By viewing ratings as the product of both user and movie properties, we can predict user ratings on movies they have not yet watched.
+img: cf.jpg # Add image post (optional)
+tags: [Recommender, CF, Jupyter, ML]
+---
+
 <html>
 <head><meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
