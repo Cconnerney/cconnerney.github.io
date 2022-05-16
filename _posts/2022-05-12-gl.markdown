@@ -13034,6 +13034,11 @@ body {
   padding: 8px;
 }
 
+@media only screen and (max-width: 480px) {
+  .div#notebook {
+  padding: 6ex 12ex 8ex 12ex;
+}
+  
 div#notebook {
   overflow: visible;
   border-top: none;
