@@ -14028,6 +14028,26 @@ table tfoot td {
   font-weight: 700;
 }
 
+.mypages {
+  font-family: 'PT Serif', serif;
+  margin: 0 0 10px;
+  position: relative;
+  padding-bottom: 15px;
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #333030;
+  font-weight: 700;
+
+}
+
+.mypages:hover {
+  -webkit-transform: translate(0px, -2px);
+      -ms-transform: translate(0px, -2px);
+          transform: translate(0px, -2px);
+  -webkit-box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
+          box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
+}
+
 .about .author-name::after {
   content: "";
   position: absolute;
