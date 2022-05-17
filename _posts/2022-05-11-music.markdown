@@ -6,16 +6,4 @@ img: radio.jpg # Add image post (optional)
 tags: [Recommendation, Viz, Jupyter]
 ---
 
-<html>
-<body>
-<div id="b-placeholder">
-
-</div>
-
-<script>
-$(function(){
-  $("#b-placeholder").load("/_posts/Music_Intelligence.html");
-});
-</script>
-</body>
-</html>
+{% gist a8f33b1cd73d96f15c89e6d3bae18f25 %}
