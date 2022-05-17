@@ -6,6 +6,8 @@ img: radio.jpg # Add image post (optional)
 tags: [Recommendation, Viz, Jupyter]
 ---
 
+<html>
+<body>
 <div id="b-placeholder">
 
 </div>
@@ -15,3 +17,5 @@ $(function(){
   $("#b-placeholder").load("/_posts/Music_Intelligence.html");
 });
 </script>
+</body>
+</html>
