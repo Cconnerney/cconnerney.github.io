@@ -13097,7 +13097,6 @@ div#notebook {
 
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p><a href="https://colab.research.google.com/gist/Cconnerney/109836db5ca58ffbcd8a14a152f25d57/wiki-qa.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a></p>
 
 </div>
 </div>
