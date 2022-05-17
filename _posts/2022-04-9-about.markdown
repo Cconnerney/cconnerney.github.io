@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About Me
-published: false
+hidden: true
 ---
 
 Hi, my name is Cristin
