@@ -14050,7 +14050,7 @@ table tfoot td {
 
 .button-6 {
   align-items: center;
-  background-color: #FFFFFF;
+  background-color: #333030;
   border: 1px solid rgba(0, 0, 0, 0.1);
   border-radius: .25rem;
   box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
@@ -14073,7 +14073,7 @@ table tfoot td {
   -webkit-user-select: none;
   touch-action: manipulation;
   vertical-align: baseline;
-  width: auto;
+  width: 150px;
 }
 
 .button-6:hover,
