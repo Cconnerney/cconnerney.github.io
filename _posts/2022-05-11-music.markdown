@@ -6,4 +6,4 @@ img: radio.jpg # Add image post (optional)
 tags: [Recommendation, Viz, Jupyter]
 ---
 
-<iframe src="/_posts/Music_Intelligence.html" seamless></iframe>
+<div w3-include-html="/_posts/Music_Intelligence.html"></div>
