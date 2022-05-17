@@ -13339,7 +13339,7 @@ div#notebook {
 </div>
 </div>
 </div>
-<img src="/assets/img/Audio.png" alt="Audio Features Box Plot">
+<img src="/assets/img/Audio.png">
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <p>Spotify provides these audio features in order to better understand the underlying data of audio tracks. We've created box plots in order to gauge the distribution of audio features.</p>
@@ -13375,6 +13375,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
+<img src="/assets/img/features.png">
 <p>Context:</p>
 <ul>
 <li><strong>Popularity</strong>: The popularity of the artist. The value will be between 0 and 100, with 100 being the most popular. </li>
@@ -13502,6 +13503,7 @@ The graphs display the average audio features for each user's playlist and give 
 </div>
 
 </div>
+<img src="/assets/img/allplay.png">
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h3 id="Correlation-Graphs">Correlation Graphs<a class="anchor-link" href="#Correlation-Graphs">&#182;</a></h3>
@@ -13531,6 +13533,7 @@ The graphs display the average audio features for each user's playlist and give 
 </div>
 
 </div>
+<img src="/assets/img/correlation.png">
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <p>There's a high positive correlation between 'energy' - 'loudness' and a high negative correlation between 'energy' and 'acousticness'. We'll look at this in more detail below.</p>
@@ -13538,6 +13541,7 @@ The graphs display the average audio features for each user's playlist and give 
 </div>
 </div>
 </div>
+<img src="/assets/img/heat.png">
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 
