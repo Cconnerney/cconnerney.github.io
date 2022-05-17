@@ -6,6 +6,4 @@ img: radio.jpg # Add image post (optional)
 tags: [Recommendation, Viz, Jupyter]
 ---
 
-<head>
-  <link rel="import" href="/_posts/Music_Intelligence.html">
-</head>
+<iframe src="/_posts/Music_Intelligence.html" seamless></iframe>
