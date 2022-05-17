@@ -14050,12 +14050,12 @@ table tfoot td {
 
 .button-6 {
   align-items: center;
-  background-color: #333030;
+  background-color: #FFFFFF;
   border: 1px solid rgba(0, 0, 0, 0.1);
   border-radius: .25rem;
   box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
   box-sizing: border-box;
-  color: rgba(0, 0, 0, 0.85);
+  color: #333030;
   cursor: pointer;
   display: inline-flex;
   font-family: 'PT Serif', serif;
