@@ -14610,10 +14610,4 @@ a.newer-posts:hover {
     font-size: 21px;
   }
    
-  div#notebook {
-  overflow: visible;
-  border-top: none;
-}div#notebook-container{
-  padding: 0ex 1ex 1ex 1ex;
-}
 }
