@@ -1,0 +1,11 @@
+---
+layout: post
+title: Music Intelligence
+description: The data science objective within this project is to understand the listener’s profile. We’ll be analyzing the mood of user playlists and recommend songs using a content-based filtering system. 
+img: radio.jpg # Add image post (optional)
+tags: [Recommendation, Viz, Jupyter]
+---
+
+<head>
+  <link rel="import" href="/_posts/Music_Intelligence.html">
+</head>
