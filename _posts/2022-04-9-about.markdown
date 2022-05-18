@@ -13101,6 +13101,7 @@ div#notebook {
 </div>
 </div>
 </div>
+<img src="/assets/img/acro2.gif">
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h2 id="Data-Science-Journey">Data Science Journey<a class="anchor-link" href="#Data-Science-Journey">&#182;</a></h2><p>Similar to my strive to achieve excellence in acrobatics, I apply the driven mindset in my career. Data is everywhere and I want to know how best to make sense of it. I want to solve the most complex problems and remain at the cutting edge of data analytics. My appreciation for continued education is what I believe will guide my growth and mastery of data analytics. I'm a lifelong learner, dedicated to growing my passions and expertise to better understand the world through data.</p>
