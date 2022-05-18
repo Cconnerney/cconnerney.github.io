@@ -4,8 +4,6 @@ title: About Me
 hidden: true
 ---
 
-## About Me
-
 <html>
 <head><meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13097,16 +13095,17 @@ div#notebook {
 
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="About-Me">About Me<a class="anchor-link" href="#About-Me">&#182;</a></h2><p>Hi, thanks for visiting my site! I'm a data science student at Carnegie Mellon with keen interests in machine learning, automation, data analysis, visualization, and research. I have recent interests in web development, and developed this website as a fun side project.</p>
-<p>In my former life, I was an acrobatic gymnast traveling the world for competitions. I reached the senior elite level and was a member of the USA Gymnastics national team and the world travel team. Representing the USA Gynmatics National Team I traveled to China, Poland, Switzerland, Germany, Italy, and throughout the US. Acrobatics taught me that no goal was out of reach, and provided a roadmap for success in academic endeavors.</p>
+<h2 id="About-Me">About Me<a class="anchor-link" href="#About-Me">&#182;</a></h2><p>Hi my name is Cristin, thanks for visiting my site. I'm a data science student at Carnegie Mellon passionate about machine learning, automation, data analysis, visualization, and research. Recently I have applied my interests to web development, and creating this website as a fun side project.</p>
+<p>In my former life I competed for the USA Gymnastics national team, traveling the world to represent the United States. I reached the senior elite level and traveled to China, Poland, Switzerland, Germany, Italy, and throughout the US. I performed on <a href="https://www.youtube.com/watch?v=SH-XyQ9e308">America's got Talent</a> (placing 3rd) and at the US Olympic Trials. Acrobatics taught me that no goal was out of reach, and provided a roadmap for success in academic endeavors.</p>
 
 </div>
 </div>
 </div>
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Data-Science-Journey">Data Science Journey<a class="anchor-link" href="#Data-Science-Journey">&#182;</a></h2><p>Applying the tools of data analytics in such a way as to draw insight from vast datasets is to me like a podium finish in competitive acrobatics: success that accrues to dedication, hard work, and creativity. Data is everywhere and I want to know how best to make sense of it. I want to solve the most complex problems and be a part of the continuous evolution of data analytics. My appreciation for continued education is what I believe will guide my growth and mastery of data analytics. I want to cultivate an extensive wealth of knowledge and remain at the forefront of the field.</p>
-<p>My favorite project so far is the Wikipedia Question Answering project. Check it out <a href="https://cconnerney.github.io/wiki-qa/">here</a>.</p>
+<h2 id="Data-Science-Journey">Data Science Journey<a class="anchor-link" href="#Data-Science-Journey">&#182;</a></h2><p>Similar to my strive to achieve excellence in acrobatics, I apply the driven mindset in my career. Data is everywhere and I want to know how best to make sense of it. I want to solve the most complex problems and remain at the cutting edge of data analytics. My appreciation for continued education is what I believe will guide my growth and mastery of data analytics. I'm a lifelong learner, dedicated to growing my passions and expertise to better understand the world through data.</p>
+<p>My favorite project so far is the <a href="https://cconnerney.github.io/wiki-qa/">Wikipedia Question Answering Project</a>.</p>
+<p>I also enjoyed doing a project with the Spotify API involving recommender systems and visualizations, the video report linked <a href="https://www.youtube.com/watch?v=g4oIFpBhcNg">here</a>.</p>
 
 </div>
 </div>
@@ -13122,5 +13121,6 @@ div#notebook {
 
 
 </html>
+
 
 
