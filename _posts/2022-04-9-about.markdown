@@ -1,0 +1,42 @@
+---
+layout: post
+title: About Me
+hidden: true
+---
+
+## About Me
+
+Hi my name is Cristin, I'm currently working on this page.  
+
+## Work Experience
+
+04/2022- Current  
+Research Analyst, Carnegie Mellon CREATE lab 
+* Cleaned and manipulated big data in python to visualize patterns of displacement and effects of gentrification 
+
+01/2022- Current  
+Data Science Independent Consultant, ProCogia 
+* Led UI/UX design for a business intelligence tool, developed a containerized web application using a Django front end and Postgres backend.
+* Incorporated new data sources via API calls into an integrated front end and created visualizations using plotly and dash. 
+
+01/2020-06/2021  
+Data Analytics Independent Consultant, Acrisure Insurance
+* Scraped data in python and stored in SQL to automate generation of Tableau dashboards and embed in client websites.
+* Created over 15 dashboards to improve business analytics and streamline decision making.
+
+01/2020-05/2021  
+Data Analytics Intern, Center for Organizational Analytics
+* Lead two teams of interns by determining tasks to be completed, training and providing mentorship, and ensuring quality of work.
+* Provided analytics to President’s Office at Elon, preprocessing data and building Tableau dashboards depicting student education trends.
+
+05/2020-08/2020  
+Data Analytics Intern, T. Rowe Price
+* Provided reports and dashboards for the Individual Investors department using adobe analytics and Tableau.
+* Created an automated Tableau dashboard for Market Event Response and presented product to 150+ stakeholders.
+
+05/2019-08/2019  
+Business Intelligence Intern, Lovelytics
+* Developed over 20 Tableau dashboards addressing key business questions.
+* Coordinated with clients to present ideas, receive feedback, and reform based on feedback.
+
+
