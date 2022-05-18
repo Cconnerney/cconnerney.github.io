@@ -1,0 +1,8 @@
+---
+layout: post
+title: Resume
+hidden: true
+---
+
+
+This will be my resume page
