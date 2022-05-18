@@ -13177,8 +13177,8 @@ div#notebook {
 
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">cid</span> <span class="o">=</span> <span class="s1">&#39;4819f4999fb246ee975d7bccacc5162b&#39;</span>
-<span class="n">secret</span> <span class="o">=</span> <span class="s1">&#39;41dce8cfa93041bc94b04454c9b5ed8b&#39;</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">cid</span> <span class="o">=</span> <span class="s1">&#39;client_id&#39;</span>
+<span class="n">secret</span> <span class="o">=</span> <span class="s1">&#39;secret&#39;</span>
 <span class="n">client_credentials_manager</span> <span class="o">=</span> <span class="n">SpotifyClientCredentials</span><span class="p">(</span><span class="n">client_id</span><span class="o">=</span><span class="n">cid</span><span class="p">,</span> <span class="n">client_secret</span><span class="o">=</span><span class="n">secret</span><span class="p">)</span>
 <span class="n">sp</span> <span class="o">=</span> <span class="n">spotipy</span><span class="o">.</span><span class="n">Spotify</span><span class="p">(</span><span class="n">client_credentials_manager</span><span class="o">=</span><span class="n">client_credentials_manager</span><span class="p">)</span>
 </pre></div>
