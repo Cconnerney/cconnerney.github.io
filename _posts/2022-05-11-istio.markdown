@@ -1,4 +1,11 @@
-<!DOCTYPE html>
+---
+layout: post
+title: Devops - Istio
+description: Deploy bookinfo application, manage route requests and view with Kiali
+img: ist.jpg # Add image post (optional)
+tags: [DevOps, Istio]
+---
+
 <html>
 <head><meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
