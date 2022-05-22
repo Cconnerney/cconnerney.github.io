@@ -1,4 +1,11 @@
-<!DOCTYPE html>
+---
+layout: post
+title: Jenkins
+description: Use Vagrant to set up a Ubuntu virtual machine with Jenkins, Blue Ocean and SonarQube.
+img: jenk.jpg # Add image post (optional)
+tags: [DevOps, Jenkins, BlueOcean]
+---
+
 <html>
 <head><meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
