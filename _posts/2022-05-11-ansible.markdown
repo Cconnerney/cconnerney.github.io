@@ -1,4 +1,11 @@
-<!DOCTYPE html>
+---
+layout: post
+title: DevOps: Ansible
+description: VM1 has petclinic.jar. On this machine I installed Ansible and ran the Ansible Playbook. VM2 is created for the purpose of deployment. The Ansbile Playbook in VM1 directs to this VM.
+img: ans.jpg # Add image post (optional)
+tags: [DevOps, Ansible]
+---
+
 <html>
 <head><meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
