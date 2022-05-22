@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jenkins
+title: DevOps – Jenkins
 description: Use Vagrant to set up a Ubuntu virtual machine with Jenkins, Blue Ocean and SonarQube.
 img: jenk.jpg # Add image post (optional)
 tags: [DevOps, Jenkins, BlueOcean]
