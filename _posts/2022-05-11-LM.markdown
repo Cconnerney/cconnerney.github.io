@@ -1,4 +1,11 @@
-<!DOCTYPE html>
+---
+layout: post
+title: Language Model
+description: N-gram language model, sentence generation, and text analysis
+img: lm.jpg # Add image post (optional)
+tags: [NLP, Ngram]
+---
+
 <html>
 <head><meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
