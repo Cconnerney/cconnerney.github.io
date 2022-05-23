@@ -1,8 +1,7 @@
 ---
 layout: post
 title: RNN and BERT
-description: sentiment classifier based on Recurrent Neural Network (RNNs) using large-scale pre-trained embeddings. The model is trained and evaluated on 
-tweets that have been annotated with three categories.
+description: Sentiment classifier based on Recurrent Neural Network (RNNs) using large-scale pre-trained embeddings. The model is trained and evaluated on tweets.
 img: bert.jpg # Add image post (optional)
 tags: [NLP, BERT, RNN]
 ---
