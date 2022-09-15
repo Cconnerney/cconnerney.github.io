@@ -13108,7 +13108,7 @@ Minor in Communications</p>
 <div class="text_cell_render border-box-sizing rendered_html">
 <h2 id="Work-Experience">Work Experience<a class="anchor-link" href="#Work-Experience">&#182;</a></h2><p><em>05/2022- Current</em><br>
 <strong>Research Analyst, Carnegie Mellon University CREATE Lab</strong><br>
-Performed big data analysis on city level data for a dense urban environment. Applied advanced AI/ML on a dataset of reduced features to draw insight on city gentrification trends. This analysis has the potential to inform government policies and urban development plans in Pittsburgh, PA.</p>
+Created a tool for pulling data from APIs and analyzing trends. Compiled written reports with key statistics and visualizations on topics surrounding gentrification, displacement, and city profiles. Applied advanced AI/ML on a dataset of reduced features to draw insight on city gentrification trends.</p>
 <p><em>01/2022- Current</em><br>
 <strong>Data Science Independent Consultant, ProCogia</strong><br>
 Leading UI/UX design for a project management tool, the team is developing a containerized web application using a Django front end and Postgres backend. Linking business intelligence tools into one synethsised dashboard, I used API calls to streamline workflows. I created visualizations using plotly and dash.</p>
