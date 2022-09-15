@@ -13110,13 +13110,13 @@ Minor in Communications</p>
 <strong>Research Analyst, Carnegie Mellon University CREATE Lab</strong><br>
 Created a tool for pulling data from APIs and analyzing trends. Compiled written reports with key statistics and visualizations on topics surrounding gentrification, displacement, and city profiles. Applied advanced AI/ML on a dataset of reduced features to draw insight on city gentrification trends.</p>
 <p><em>01/2022- Current</em><br>
-<strong>Data Science Independent Consultant, ProCogia</strong><br>
+<strong>Web Developer, ProCogia</strong><br>
 Leading UI/UX design for a project management tool, the team is developing a containerized web application using a Django front end and Postgres backend. Linking business intelligence tools into one synethsised dashboard, I used API calls to streamline workflows. I created visualizations using plotly and dash.</p>
 <p><em>01/2020-06/2021</em><br>
 <strong>Data Analytics Independent Consultant, Acrisure Insurance</strong><br>
 My work at acrisure included a project scraping data in python and stored in SQL to automate generation of Tableau dashboards. I created over 15 dashboards to improve business analytics and streamline decision making. I worked with individual clients to customize dashboards and embed in client websites. The automatation of the dashboarding process saved time and allowed for improvements, customization, and advanced analytics.</p>
 <p><em>01/2020-05/2021</em><br>
-<strong>Data Analytics Intern, Center for Organizational Analytics</strong><br>
+<strong>Data Analytics Project Lead, Center for Organizational Analytics</strong><br>
 At the COA I lead two teams of interns; I determined tasks to be completed, provided training and mentorship, and ensured quality of work. One project provided analytics to President’s Office at Elon, preprocessing data and building Tableau dashboards depicting student education trends. In the COA I held lunch-and-learn sessions, furthered COA intiatives, hosted visiting students, and acted as a mentor to younger students.</p>
 <p><em>05/2020-08/2020</em><br>
 <strong>Data Analytics Intern, T. Rowe Price</strong><br>
