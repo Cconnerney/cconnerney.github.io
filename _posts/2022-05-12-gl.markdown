@@ -48,8 +48,7 @@ tags: [Dijsktra, PageRank]
     </script>
     <!-- End of mathjax configuration --></head>
 <body>
-  <div tabindex="-1" id="notebook" class="border-box-sizing">
-    <div class="container" id="notebook-container">
+<div class="container" id="notebook-container">
 
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
@@ -281,8 +280,8 @@ tags: [Dijsktra, PageRank]
 </div>
 
 </div>
-    </div>
-  </div>
+
+</div>
 </body>
 
 
