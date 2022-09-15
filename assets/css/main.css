@@ -11509,7 +11509,7 @@ div#notebook {
 @media not print {
   #notebook-container {
     padding: 15px;
-    background-color: #fff;
+    background-color: #fbfbfb;
     min-height: 0;
     -webkit-box-shadow: 0px 0px 12px 1px rgba(87, 87, 87, 0.2);
     box-shadow: 0px 0px 12px 1px rgba(87, 87, 87, 0.2);
@@ -14122,8 +14122,8 @@ table tfoot td {
 }
 
 .content-box {
-  padding: 20px;
-  padding-left: 260px;
+  padding: 0px;
+  padding-left: 240px;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -14317,7 +14317,7 @@ a.newer-posts:hover {
 
 /* - - - - - - - - - - Post Page Styles - - - - - - - - - - */
 .wrap-content {
-  padding: 20px;
+  padding: 0px;
 }
 
 .header-page {
