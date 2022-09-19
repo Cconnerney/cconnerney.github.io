@@ -171,7 +171,6 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 </div>
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>I've created a unique pipeline for question answering in order to output correct answers, and I'll explain why this works later.</p>
 
 </div>
 </div>
@@ -373,6 +372,8 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 <p>We can demo how the preprocessing works with this article on Latte Art.</p>
 <p>Dependency parsing analyzes the grammatical structure of a sentence to determine connections between phrases or tokens. These dependency relations allow for a better understanding of how words in the sentence are related. In the QA system, dependency parsing is important in matching a question to its correct answer. Below, you can see the dependecy parsed sentence 'This is especially relevant with new baristas.'</p>
 
+<img src="coffee.png">
+       
 </div>
 </div>
 </div>
