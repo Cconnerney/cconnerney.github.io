@@ -125,7 +125,7 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="About-Me">About Me<a class="anchor-link" href="#About-Me">&#182;</a></h2><p>Hi my name is Cristin, thanks for visiting my site. I'm a data science student at Carnegie Mellon passionate about machine learning, automation, data analysis, visualization, and research. Recently I have applied my interests to web development, and creating this website as a fun side project.</p>
+<h2 id="About-Me">About Me<a class="anchor-link" href="#About-Me">&#182;</a></h2><p>Hi my name is Cristin, thanks for visiting my site. I'm a data science student at Carnegie Mellon studying machine learning, automation, and natural language processing. Recently I have applied my interests to web development, and creating this website as a fun side project.</p>
 
 <p>My favorite project so far is the <a href="https://cconnerney.github.io/wiki-qa/">Wikipedia Question Answering Project</a>.</p>
 <p>I also enjoyed doing a project with the Spotify API involving recommender systems and visualizations, the video report linked <a href="https://www.youtube.com/watch?v=g4oIFpBhcNg">here</a>.</p>
