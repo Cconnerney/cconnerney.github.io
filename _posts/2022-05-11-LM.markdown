@@ -13092,8 +13092,6 @@ div#notebook {
     </script>
     <!-- End of mathjax configuration --></head>
 <body>
-  <div tabindex="-1" id="notebook" class="border-box-sizing">
-    <div class="container" id="notebook-container">
 
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
@@ -14291,8 +14289,7 @@ Downloading: 100%|██████████| 1.29M/1.29M [00:00&lt;00:00, 3
 </div>
 
 </div>
-    </div>
-  </div>
+
 </body>
 
 
