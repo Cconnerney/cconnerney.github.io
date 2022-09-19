@@ -131,7 +131,7 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 <p>I also enjoyed doing a project with the Spotify API involving recommender systems and visualizations, the video report linked <a href="https://www.youtube.com/watch?v=g4oIFpBhcNg">here</a>.</p>
 
   
-<p>In my former life I competed for the USA Gymnastics national team, traveling the world to represent the United States. I reached the senior elite level and traveled to China, Poland, Switzerland, Germany, Italy, and throughout the US. I performed on <a href="https://www.youtube.com/watch?v=SH-XyQ9e308">America's got Talent</a> (placing 3rd) and at the US Olympic Trials. Acrobatics taught me that no goal was out of reach, and provided a roadmap for success in academic endeavors.</p>
+<p>In my former life I competed for the USA Gymnastics national team, traveling the world to represent the United States. I reached the senior elite level and traveled to China, Poland, Switzerland, Germany, Italy, and throughout the US. I performed on <a href="https://www.youtube.com/watch?v=SH-XyQ9e308">America's got Talent</a> (placing 3rd) and at the US Olympic Trials. </p>
 
 </div>
 </div>
@@ -141,7 +141,6 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 <img src="/assets/img/acro2.gif">
 </div>
 
-</div>
 
 </body>
 
