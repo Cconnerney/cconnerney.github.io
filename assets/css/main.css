@@ -14122,8 +14122,8 @@ table tfoot td {
 }
 
 .content-box {
-  padding: 0px;
-  padding-left: 240px;
+  padding: 20px;
+  padding-left: 260px;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -14317,7 +14317,7 @@ a.newer-posts:hover {
 
 /* - - - - - - - - - - Post Page Styles - - - - - - - - - - */
 .wrap-content {
-  padding: 0px;
+  padding: 20px;
 }
 
 .header-page {
