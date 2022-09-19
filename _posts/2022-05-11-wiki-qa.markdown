@@ -372,7 +372,7 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 <p>We can demo how the preprocessing works with this article on Latte Art.</p>
 <p>Dependency parsing analyzes the grammatical structure of a sentence to determine connections between phrases or tokens. These dependency relations allow for a better understanding of how words in the sentence are related. In the QA system, dependency parsing is important in matching a question to its correct answer. Below, you can see the dependecy parsed sentence 'This is especially relevant with new baristas.'</p>
 
-<img src="coffee.png">
+<img src="/assets/img/coffee.png">
        
 </div>
 </div>
