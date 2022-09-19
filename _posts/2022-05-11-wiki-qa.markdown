@@ -371,8 +371,6 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 <p>From our wikipedia article, we can extract useful information from the text using the Spacy pipeline. Spacy does a good job performing sentence segmentation, Part Of Speech tagging, Named Entity Recognition, and dependency parsing. These components are all necessary in a QA system.</p>
 <p>We can demo how the preprocessing works with this article on Latte Art.</p>
 <p>Dependency parsing analyzes the grammatical structure of a sentence to determine connections between phrases or tokens. These dependency relations allow for a better understanding of how words in the sentence are related. In the QA system, dependency parsing is important in matching a question to its correct answer. Below, you can see the dependecy parsed sentence 'This is especially relevant with new baristas.'</p>
-
-<img src="/assets/img/coffee.png">
        
 </div>
 </div>
@@ -396,6 +394,9 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 </div>
 
 </div>
+  
+<img src="/assets/img/coffee.png">
+  
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <p>Coreference Resolution is the process of replacing expressions that refer to the same entity in text.</p>
