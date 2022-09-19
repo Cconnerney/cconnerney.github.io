@@ -126,22 +126,21 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h2 id="About-Me">About Me<a class="anchor-link" href="#About-Me">&#182;</a></h2><p>Hi my name is Cristin, thanks for visiting my site. I'm a data science student at Carnegie Mellon passionate about machine learning, automation, data analysis, visualization, and research. Recently I have applied my interests to web development, and creating this website as a fun side project.</p>
+
+<p>My favorite project so far is the <a href="https://cconnerney.github.io/wiki-qa/">Wikipedia Question Answering Project</a>.</p>
+<p>I also enjoyed doing a project with the Spotify API involving recommender systems and visualizations, the video report linked <a href="https://www.youtube.com/watch?v=g4oIFpBhcNg">here</a>.</p>
+
+  
 <p>In my former life I competed for the USA Gymnastics national team, traveling the world to represent the United States. I reached the senior elite level and traveled to China, Poland, Switzerland, Germany, Italy, and throughout the US. I performed on <a href="https://www.youtube.com/watch?v=SH-XyQ9e308">America's got Talent</a> (placing 3rd) and at the US Olympic Trials. Acrobatics taught me that no goal was out of reach, and provided a roadmap for success in academic endeavors.</p>
 
 </div>
 </div>
 </div>
+  
 <div align="center" style="padding:0 .5em .5em">
 <img src="/assets/img/acro2.gif">
 </div>
-<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Data-Science-Journey">Data Science Journey<a class="anchor-link" href="#Data-Science-Journey">&#182;</a></h2><p>Similar to my strive to achieve excellence in acrobatics, I apply the driven mindset in my career. Data is everywhere and I want to know how best to make sense of it. I want to solve the most complex problems and remain at the cutting edge of data analytics. My appreciation for continued education is what I believe will guide my growth and mastery of data analytics. I'm a lifelong learner, dedicated to growing my passions and expertise to better understand the world through data.</p>
-<p>My favorite project so far is the <a href="https://cconnerney.github.io/wiki-qa/">Wikipedia Question Answering Project</a>.</p>
-<p>I also enjoyed doing a project with the Spotify API involving recommender systems and visualizations, the video report linked <a href="https://www.youtube.com/watch?v=g4oIFpBhcNg">here</a>.</p>
 
-</div>
-</div>
 </div>
 
 </body>
