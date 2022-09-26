@@ -139,7 +139,7 @@ Love School of Business</p>
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h2 id="Work-Experience">Work Experience<a class="anchor-link" href="#Work-Experience">&#182;</a></h2><p><em>05/2022- Current</em><br>
-<strong>Research Analyst, Carnegie Mellon University CREATE Lab</strong><br>
+<strong>Data Scientist, Carnegie Mellon University CREATE Lab</strong><br>
 Created a tool for pulling data from APIs and analyzing trends. Compiled written reports with key statistics and visualizations on topics surrounding gentrification, displacement, and city profiles. Applied advanced AI/ML on a dataset of reduced features to draw insight on city gentrification trends.</p>
 <p><em>01/2022- Current</em><br>
 <strong>Web Developer, ProCogia</strong><br>
