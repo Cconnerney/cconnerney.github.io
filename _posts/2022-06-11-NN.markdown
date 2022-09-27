@@ -141,23 +141,23 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 ages of various vehicles and animals; the subset includes black and white images of the 4 classes automobile,
 bird, frog, ship. </p>
   
-<img src="/assets/img/cifar.png">
+<img src="/assets/img/cifar.png" style="max-width:300px;width:100%">
  
 <p>The model implements a single-hidden-layer neural network with a sigmoid activation function for the
 hidden layer, and a softmax on the output layer. Let the input vectors x be of length M , and the hidden layer
 z consist of D hidden units. In addition, let the output layer ˆy be a probability distribution over K classes.
 That is, each element ˆyk of the output vector represents the probability of x belonging to the class k. </p>
 
-<img src="/assets/img/math1.png">
+<img src="/assets/img/math1.png" style="max-width:200px;width:100%">
   
 <p>The model can be compacted by assuming that x0 = 1 is a bias feature on the input and that z0 = 1 is also
 fixed.</p>
 
-<img src="/assets/img/math2.png">
+<img src="/assets/img/math2.png" style="max-width:150px;width:100%">
   
 <p>The objective function for training the neural network is the average cross entropy over the training dataset. The objective function is optimized during training using stochastic gradient descent (SGD), where the gradient of the parameters for each training example is computed via backpropagation.</p>
   
-<img src="/assets/img/math3.png">
+<img src="/assets/img/math3.png" style="max-width:250px;width:100%">
   
 </div>
 </div>
