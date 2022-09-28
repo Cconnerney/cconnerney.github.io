@@ -1,13 +1,12 @@
 title: Cristin Connerney
 description: > # this means to ignore newlines until "baseurl:"
-  Cristin Connerney's data science portfolio
 permalink: ':title/'
 url: "https://cconnerney.github.io"  # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
 author: Cristin Connerney # add your name
 author-img: cmu.jpg # add your photo
-about-author: Data science graduate student at Carnegie Mellon University # add description
+about-author: Data scientist # add description
 social-github: cconnerney # add your Github handle
 social-linkedin: cconnerney # add your Linkedin handle
 social-email: cristinconnerney@cmu.edu # add your Email address
