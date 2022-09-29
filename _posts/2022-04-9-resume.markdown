@@ -190,20 +190,33 @@ Lead 2 intern groups at Elon’s Analytics Center</p>
 </div>
 </div>
 </div>
+  
+  
+<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+  
+<h2 id="Highlighted-Works">HighLighted Works<a class="anchor-link" href="#Highlighted-Works">&#182;</a></h2><ul>
+<li>Recurrent Neural Network Sentiment Analysis: Built a sentiment classifier based on Recurrent Neural Network (RNNs) using large-scale pre-trained embeddings.</li>
+<li>Language Model Sentence Generation: Trained and tuned an N-gram language model for sentence generation and text analysis. I achieved a perplexity of 20 on the test set, and compared my model to GPT2 with a perplexity of 50.</li>
+<li>Image Classification Neural Network: Built an image classification system using a single hidden layer neural network with Adagrad stochastic gradient descent. The model had a accuracy of 72.8%.</li>
+<li>Question Answering System: Given an article or text, my model generated questions using a pretrained SQuAD T5 model. I then used the semantic properties of the text along with a BERT transformer model to form the answer. </li>
+<li>Collaborative Filtering Recommendation System: Using a collaborative filtering method, I predicted user ratings on movies that the user hadn’t watched. I used a matrix of user ratings factorized into user-related features and movie-related features to create predictions.</li>
+
+</ul>
+
+</div>
+</div>
+</div>
+  
+ 
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h2 id="Skills">Skills<a class="anchor-link" href="#Skills">&#182;</a></h2><ul>
-<li>Python</li>
-<li>Rstudio</li>
-<li>Tableau</li>
-<li>MySQL</li>
-<li>Jenkins/ Istio/ Ansible</li>
-<li>Figma/ UI Design</li>
-<li>Plotly/ Dash</li>
-<li>Scikit-learn</li>
-<li>Pyspark</li>
-<li>Machine Learning</li>
-<li>NLP</li>
+<li>Python – NumPy, Pandas, SciKit-learn, Plotly</li>
+<li>Machine Learning Models – Recommendation Engines, Reinforcement Learning, Neural Networks, K-means Clustering, Hidden Markov Model, Logistic Regression</li>
+<li>NLP Models – BERT, Spacy, GPT3</li>
+<li>CI/CD pipelines – Jenkins, Istio, Ansible, Vagrant</li>
+<li>Tools – Tableau, SQL, JavaScript, HTML, CSS, Rstudio, Figma</li>
 </ul>
 
 </div>
