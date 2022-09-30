@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wikipedia QA
-description: Question generation and question answering from text play an important role in many domains. Together, the task is referred to as “question answering,” a branch of artificial intelligence that stems from natural language processing. The automation of these tasks has improved greatly with the use of openly available datasets and pretrained models. In this tutorial, we’ll be applying a QA pipeline to wikipedia articles in order to generate questions and answers.
+description: Question generation and question answering from text play an important role in many domains. Together, the task is referred to as “question answering,” a branch of artificial intelligence that stems from natural language processing. The automation of these tasks has improved greatly with the use of openly available datasets and pretrained models. 
 img: pipeline.jpg # Add image post (optional)
 tags: [QA, NLP, Jupyter]
 ---
@@ -134,14 +134,14 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 </div>
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Question generation and question answering from text play an important role in many domains. Together, the task is referred to as “question answering,” a branch of artificial intelligence that stems from natural language processing. The automation of these tasks has improved greatly with the use of openly available datasets and pretrained models. In this tutorial, we’ll be applying a QA pipeline to wikipedia articles in order to generate questions and answers.</p>
+<p>Question generation and question answering from text play an important role in many domains. Together, the task is referred to as “question answering,” a branch of artificial intelligence that stems from natural language processing. The automation of these tasks has improved greatly with the use of openly available datasets and pretrained models. In this model, I’ll be applying a QA pipeline to wikipedia articles in order to generate questions and answers.</p>
 
 </div>
 </div>
 </div>
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>The goal of question generation and answering is to input a text and output both grammatically correct questions and answers. We generally use QA to gain knowledge from text. A few of the use cases can be seen below:</p>
+<p>The goal of question generation and answering is to input a text and output both grammatically correct questions and answers. QA is generally used to gain knowledge from text. A few of the use cases can be seen below:</p>
 <ul>
 <li>Chat bots</li>
 <li>Customer support teams</li>
@@ -368,8 +368,8 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 </div>
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>From our wikipedia article, we can extract useful information from the text using the Spacy pipeline. Spacy does a good job performing sentence segmentation, Part Of Speech tagging, Named Entity Recognition, and dependency parsing. These components are all necessary in a QA system.</p>
-<p>We can demo how the preprocessing works with this article on Latte Art.</p>
+<p>From the wikipedia article, I can extract useful information from the text using the Spacy pipeline. Spacy does a good job performing sentence segmentation, Part Of Speech tagging, Named Entity Recognition, and dependency parsing. These components are all necessary in a QA system.</p>
+<p>I can demo how the preprocessing works with this article on Latte Art.</p>
 <p>Dependency parsing analyzes the grammatical structure of a sentence to determine connections between phrases or tokens. These dependency relations allow for a better understanding of how words in the sentence are related. In the QA system, dependency parsing is important in matching a question to its correct answer. Below, you can see the dependecy parsed sentence 'This is especially relevant with new baristas.'</p>
        
 </div>
@@ -461,7 +461,7 @@ Latte art can also be created or embellished by simply &#34;drawing&#34; in the 
 </div>
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>We can extract more useful information from these tokens. Lemmatization is the process of using context to group together inflicted forms of a word. For example, the word 'preparing' becomes 'prepare'. Part Of Speech tagging assigns the part of speech tag to the word, the dependencies elaborate on the dependency relations, and the shape is the length of the word.</p>
+<p>Lemmatization is the process of using context to group together inflicted forms of a word. For example, the word 'preparing' becomes 'prepare'. Part Of Speech tagging assigns the part of speech tag to the word, the dependencies elaborate on the dependency relations, and the shape is the length of the word.</p>
 
 </div>
 </div>
@@ -512,7 +512,7 @@ Latte art can also be created or embellished by simply &#34;drawing&#34; in the 
 </div>
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>For sentence generation, we'll be using the pretrained model T5 for Conditional Generation. Huggingface provides models with their NLP library 'Transformers'. The SQuAD dataset is a popular question answering dataset that consists of questions posed on a set of wikipedia articles.</p>
+<p>For sentence generation, I'll be using the pretrained model T5 for Conditional Generation. Huggingface provides models with their NLP library 'Transformers'. The SQuAD dataset is a popular question answering dataset that consists of questions posed on a set of wikipedia articles.</p>
 
 </div>
 </div>
@@ -553,7 +553,7 @@ Latte art can also be created or embellished by simply &#34;drawing&#34; in the 
 </div>
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>The answering model will output multiple possible answers with associated confidence scores. We are going to use NLP to upvote those scores by the confidence metric we create.</p>
+<p>The answering model will output multiple possible answers with associated confidence scores. The ranking system will use sentence semantics to upvote those scores by the confidence metric we create.</p>
 <p>For each question:</p>
 <ol>
 <li>Split document (Wikipedia article) into sentences, each with an assigned index</li>
@@ -804,7 +804,7 @@ Latte art can also be created or embellished by simply &#34;drawing&#34; in the 
 </div>
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>For the answering component of the model, we're going to use the Transformer BERT to select the top answers. We pass into the model the sentences in the text that we narrowed down and the question we're looking to answer.</p>
+<p>For the answering component of the model, the Transformer selects the top answers. I pass into the model the sentences in the text that were narrowed down and the question looking to be answered.</p>
 
 </div>
 </div>
@@ -1171,7 +1171,6 @@ Mercury-Redstone 2
 </div>
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>To learn more about Question Answering, see the resources below:</p>
 <ul>
 <li>Documentation on Spacy: <a href="https://spacy.io/models">Spacy</a></li>
 <li>Documentation on the transformer model: <a href="https://huggingface.co/docs/transformers/main/en/tasks/question_answering#question-answering">Huggingface</a></li>
