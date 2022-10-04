@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Visualizing Bus Bunching
+title: Time Series Analysis
 description: Analysis and visualization of time-series data with Pittsburgh Port Authority's TrueTime data.
 img: bus.jpg # Add image post (optional)
 tags: [Vizualization, Timeseries, matplotlib]
