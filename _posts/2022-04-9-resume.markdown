@@ -147,26 +147,6 @@ Built 20+ dashboards with customized tools to address client needs and presented
 </div>
 </div>
 </div>
-  
-<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-  
-<h2 id="Highlighted-Works">Highlighted Works<a class="anchor-link" href="#Highlighted-Works">&#182;</a></h2><ul>
-  
-  
-<li><strong>Multilingual RNN Sentiment Classifier:</strong> Built a text classifier with RNNs using BERT embeddings and training with PyTorch, tested model on multiple languages with accuracies over 65%.</li>
-
-<li><strong>Optical Character Recognizer:</strong> Built an image classification system using a neural network with Adagrad stochastic gradient descent to identify images from the CIFAR-10 computer vision dataset.</li>
-  
-<li><strong>Question Answering System:</strong> Generated questions with a SQuAD T5 model and generated answers using semantic text properties and a BERT transformer model. </li>
-  
-<li><strong>Collaborative Filtering Recommendation System:</strong> Recommended movies with the highest predicted rating on unseen content using matrix factorization and Alternating Least Squares.</li>
-
-</ul>
-
-</div>
-</div>
-</div>
 
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
@@ -185,9 +165,30 @@ Minor in Communications<br></p>
 <div class="text_cell_render border-box-sizing rendered_html">
 <h2 id="Skills">Skills<a class="anchor-link" href="#Skills">&#182;</a></h2><ul>
 <li>Software – Python, Tableau, SQL, JavaScript, HTML, CSS, Rstudio, Figma</li>
-<li>Machine Learning Modeling – Neural Network, HMM, Logistic Regression, Collaborative Filtering Matrix Factorization Model, Reinforcement Learning Model, Lemmatizer, N-Gram, KNN</li>
+<li>Machine Learning Modeling – Neural Network, HMM, Logistic Regression, Collaborative Filtering Matrix Factorization, Content-Based Recommender Systems, Reinforcement Learning, Q-Learning, Lemmatization, N-Gram, KNN, Perceptron</li>
 <li>High Fluency – SKlearn, BERT, Spacy, GPT2, PyTorch, NLTK, Numpy, Pandas</li>
 <li>CI/CD pipelines – Jenkins, Istio, Ansible, Vagrant</li>
+</ul>
+
+</div>
+</div>
+</div>
+
+    
+<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+  
+<h2 id="Highlighted-Works">Highlighted Works<a class="anchor-link" href="#Highlighted-Works">&#182;</a></h2><ul>
+  
+  
+<li><strong>Multilingual RNN Sentiment Classifier:</strong> Built a text classifier with RNNs using BERT embeddings and training with PyTorch, tested model on multiple languages with accuracies over 65%.</li>
+
+<li><strong>Optical Character Recognizer:</strong> Built an image classification system using a neural network with Adagrad stochastic gradient descent to identify images from the CIFAR-10 computer vision dataset.</li>
+  
+<li><strong>Question Answering System:</strong> Generated questions with a SQuAD T5 model and generated answers using semantic text properties and a BERT transformer model. </li>
+  
+<li><strong>Collaborative Filtering Recommendation System:</strong> Recommended movies with the highest predicted rating on unseen content using matrix factorization and Alternating Least Squares.</li>
+
 </ul>
 
 </div>
