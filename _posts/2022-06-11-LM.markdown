@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Multilingual RNN Sentiment Classifier
+title: Language Model Sentence Generation
 description: N-gram language model, sentence generation, and text analysis
 img: lm.jpg # Add image post (optional)
 tags: [NLP, Ngram]
