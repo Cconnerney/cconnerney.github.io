@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Music Intelligence
+title: Content-Based Music Recommender System
 description: The data science objective within this project is to understand the listener’s profile. We’ll be analyzing the mood of user playlists and recommend songs using a content-based filtering system. 
 img: radio.jpg # Add image post (optional)
 tags: [Recommendation, Viz, Jupyter]
