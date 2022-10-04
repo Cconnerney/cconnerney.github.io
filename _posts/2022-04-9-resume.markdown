@@ -122,19 +122,7 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
     </script>
     <!-- End of mathjax configuration --></head>
 <body>
-
-<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Education">Education<a class="anchor-link" href="#Education">&#182;</a></h2><p><strong>Carnegie Mellon University</strong><br>
-Master of Information Technology Strategy<br>
-Gates School of Computer Science | Institute for Policy and Strategy</p>
-<p><strong>Elon University</strong><br>
-B.S. Business Analytics<br>
-Minor in Communications<br></p>
-
-</div>
-</div>
-</div>
+ 
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h2 id="Work-Experience">Work Experience<a class="anchor-link" href="#Work-Experience">&#182;</a></h2><p><em>05/2022- Current</em><br>
@@ -175,6 +163,19 @@ Built 20+ dashboards with customized tools to address client needs and presented
 <li><strong>Collaborative Filtering Recommendation System:</strong> Recommended movies with the highest predicted rating on unseen content using matrix factorization and Alternating Least Squares.</li>
 
 </ul>
+
+</div>
+</div>
+</div>
+
+<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Education">Education<a class="anchor-link" href="#Education">&#182;</a></h2><p><strong>Carnegie Mellon University</strong><br>
+Master of Information Technology Strategy<br>
+Gates School of Computer Science | Institute for Policy and Strategy</p>
+<p><strong>Elon University</strong><br>
+B.S. Business Analytics<br>
+Minor in Communications<br></p>
 
 </div>
 </div>
