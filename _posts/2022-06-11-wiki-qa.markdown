@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wikipedia QA
+title: Question Generation and Answering
 description: Question generation and question answering from text play an important role in many domains. Together, the task is referred to as “question answering,” a branch of artificial intelligence that stems from natural language processing. The automation of these tasks has improved greatly with the use of openly available datasets and pretrained models. 
 img: pipeline.jpg # Add image post (optional)
 tags: [QA, NLP, Jupyter]
