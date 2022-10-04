@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Q-Learning
+title: Q-Learning – Mountain Car Problem
 description: The model implements a reinforcement learning algorithm for solving the classic mountain-car environment. The model is implemented using Q-learning with linear function approximation to initialize, train, evaluate, and obtain the optimal policies and action values.
 img: MC.jpg # Add image post (optional)
 tags: [MountainCar, ML, RL]
