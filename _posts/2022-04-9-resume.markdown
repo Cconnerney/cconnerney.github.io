@@ -206,22 +206,20 @@ Built 20+ dashboards with customized tools to address client needs and presented
 
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Awards">Awards<a class="anchor-link" href="#Awards">&#182;</a></h2><p><strong>Outstanding Achievement in Business Analytics</strong><br>
+<h2 id="Awards">Awards & Leadership<a class="anchor-link" href="#Awards">&#182;</a></h2>
+<p><strong>Outstanding Achievement in Business Analytics</strong><br>
 2021 Elon Love Business School</p>
-
-</div>
-</div>
-</div>
-<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Leadership">Leadership<a class="anchor-link" href="#Leadership">&#182;</a></h2><p><strong>President</strong><br>
+ 
+<p><strong>President</strong><br>
 WIIS, Women in International Security CMU Chapter</p>
-<p><strong>Team Manager</strong><br>
-Lead 2 intern groups at Elon’s Analytics Center</p>
+ 
+<p><strong>Project Lead</strong><br>
+Managed 2 client projects and intern teams at Elon’s Analytics Center</p>
  
 </div>
 </div>
 </div>
+
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h2 id="Hosted-Events">Hosted Events<a class="anchor-link" href="#Hosted-Events">&#182;</a></h2><ul>
