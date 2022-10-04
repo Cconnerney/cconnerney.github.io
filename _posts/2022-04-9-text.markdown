@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Text Classification
+title: SKLearn Text Classification
 description: Analyze twitter data to infer the political inclination of the author from the tweet text using scikit-learn.
 img: dist.jpg # Add image post (optional)
 tags: [Text, NLP, Twitter, ML, Scikit]
