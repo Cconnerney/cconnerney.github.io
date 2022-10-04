@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RNN and BERT
+title: Multilingual RNN Sentiment Classifier
 description: Sentiment classifier based on Recurrent Neural Network (RNNs) using large-scale pre-trained embeddings. The model is trained and evaluated on tweets.
 img: bert.jpg # Add image post (optional)
 tags: [NLP, BERT, RNN]
