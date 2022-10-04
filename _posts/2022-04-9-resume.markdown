@@ -180,22 +180,12 @@ Built 20+ dashboards with customized tools to address client needs and presented
 </div>
 </div>
   
-
-<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Systems">Systems<a class="anchor-link" href="#Systems">&#182;</a></h2><ul>
-<li>Scratch Built – Neural Network, HMM, Logistic Regression, Collaborative Filtering Matrix Factorization Model, Reinforcement Learning Model, Lemmatizer, N-Gram, KNN</li>
-<li>High Fluency – SKlearn, BERT, Spacy, GPT2, PyTorch, NLTK</li>
-</ul>
-
-</div>
-</div>
-</div>
-
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h2 id="Skills">Skills<a class="anchor-link" href="#Skills">&#182;</a></h2><ul>
 <li>Software – Python, Tableau, SQL, JavaScript, HTML, CSS, Rstudio, Figma</li>
+<li>Machine Learning Modeling – Neural Network, HMM, Logistic Regression, Collaborative Filtering Matrix Factorization Model, Reinforcement Learning Model, Lemmatizer, N-Gram, KNN</li>
+<li>High Fluency – SKlearn, BERT, Spacy, GPT2, PyTorch, NLTK, Numpy, Pandas</li>
 <li>CI/CD pipelines – Jenkins, Istio, Ansible, Vagrant</li>
 </ul>
 
