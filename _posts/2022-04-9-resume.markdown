@@ -126,35 +126,36 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h2 id="Work-Experience">Work Experience<a class="anchor-link" href="#Work-Experience">&#182;</a></h2><p><em>05/2022- Current</em><br>
+  
 <strong>Carnegie Mellon University CREATE Lab, Data Scientist</strong><br>
-•	Designed and developed a tool to source and validate data for the Pittsburgh Equitable Development Project. 
-•	Analyzed 80k rows of census data, performed causal inference and wrote reports to inform local policy.
+<li>Designed and developed a tool to source and validate data for the Pittsburgh Equitable Development Project.</li>
+<li>Analyzed 80k rows of census data, performed causal inference and wrote reports to inform local policy.</li>
  </p>
 <p><em>01/2022-08/2022</em><br>
 <strong>ProCogia, Software Developer</strong><br>
-•	Developed a containerized web application with a Django framework and Postgres backend, launched the company product with 10+ web pages. 
-•	Led UI design in Figma for the internal BI app and delegated tasks to the SWE team. 
-•	Created JavaScript dashboards to provide personalized analytics to 50+ members of the company.
-•	Created a tool for dynamic project assignments to solve scheduling problems and plan for company scaling.
+<li>Developed a containerized web application with a Django framework and Postgres backend, launched the company product with 10+ web pages.</li> 
+<li>Led UI design in Figma for the internal BI app and delegated tasks to the SWE team. </li>
+<li>Created JavaScript dashboards to provide personalized analytics to 50+ members of the company.</li>
+<li>Created a tool for dynamic project assignments to solve scheduling problems and plan for company scaling.</li>
  </p>
 <p><em>01/2020-06/2021</em><br>
 <strong>Acrisure Insurance, Data Analytics Independent Consultant</strong> <br>
-•	Developed an ETL system automating generation of Tableau dashboards embedded in client websites, reducing manual work and increasing availability of insurance claim data and insights.
-•	Created a Future Event Predictor model to estimate future investment based on the impact of historical events.
+<li>Developed an ETL system automating generation of Tableau dashboards embedded in client websites, reducing manual work and increasing availability of insurance claim data and insights.</li>
+<li>Created a Future Event Predictor model to estimate future investment based on the impact of historical events.</li>
  </p>
 <p><em>01/2020-05/2021</em><br>
-<strong>Center for Organizational Analytics, Data Analytics Project Lead</strong><br>
-•	Managed project teams by coordinating with clients, determining project scope, delegating tasks, training and providing mentorship, and overseeing the success of each project. 
-•	Analyzed 5+ years of student data to predict students’ post-grad activities and provided Tableau dashboards to the President’s Office at Elon, informing the admissions office and academic advisors.
+<strong>Center for Organizational Analytics, Data Science Project Lead</strong><br>
+<li>Managed project teams by coordinating with clients, determining project scope, delegating tasks, training and providing mentorship, and overseeing the success of each project. </li>
+<li>Analyzed 5+ years of student data to predict students’ post-grad activities and provided Tableau dashboards to the President’s Office at Elon, informing the admissions office and academic advisors.</li>
 </p>
 <p><em>05/2020-08/2020</em><br>
-<strong>T. Rowe Price, Data Analytics Intern</strong><br>
-•	Developed AMERS (Automated Market Event Response System) to automate insights in response to market fluctuations and presented product to 150+ stakeholders in the individual investors department.
-•	Created a user experience tracking tool comparing web and mobile user behavior, giving insight into how actions affect KPIs and performing conversation rate optimization. 
+<strong>T. Rowe Price, Data Science Intern</strong><br>
+<li>Developed AMERS (Automated Market Event Response System) to automate insights in response to market fluctuations and presented product to 150+ stakeholders in the individual investors department.</li>
+<li>Created a user experience tracking tool comparing web and mobile user behavior, giving insight into how actions affect KPIs and performing conversation rate optimization. </li>
 </p>
 <p><em>05/2019-08/2019</em><br>
 <strong>Lovelytics, Business Intelligence Intern</strong><br>
-Built 20+ dashboards with customized tools to address client needs and presented insights.</p>
+<li>Built 20+ dashboards with customized tools to address client needs and presented insights.</li></p>
 
 </div>
 </div>
