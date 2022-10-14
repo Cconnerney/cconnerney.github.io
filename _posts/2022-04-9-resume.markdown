@@ -194,13 +194,13 @@ Minor in Communications<br></p>
 <h2 id="Highlighted-Works">Highlighted Works<a class="anchor-link" href="#Highlighted-Works">&#182;</a></h2><ul>
   
   
-<li><strong>Multilingual RNN Sentiment Classifier:</strong> Built a text classifier with Recurrent Neural Networks using BERT embeddings and training with PyTorch, trained and tested model on multiple languages with accuracies over 65%.</li>
+<li><strong>Multilingual RNN Sentiment Classifier:</strong> Built a text classifier with Recurrent Neural Networks using BERT embeddings and training with PyTorch, trained and tested model on multiple languages with accuracies over 65%. <a href="https://cconnerney.github.io/BERT/">(link)</a></li>
 
-<li><strong>Optical Character Recognizer NN:</strong> Built an image classification system using a neural network with Adagrad stochastic gradient descent to identify images from the CIFAR-10 computer vision dataset with 75% accuracy.</li>
+<li><strong>Optical Character Recognizer NN:</strong> Built an image classification system using a neural network with Adagrad stochastic gradient descent to identify images from the CIFAR-10 computer vision dataset with 75% accuracy. <a href="https://cconnerney.github.io/NN/">(link)</a></li>
   
-<li><strong>Question Answering System:</strong> Generated questions with a SQuAD T5 model and generated answers using text semantics and a BERT transformer model. Correctly generated results with any Wikipedia article or text on any topic.  </li>
+<li><strong>Question Answering System:</strong> Generated questions with a SQuAD T5 model and generated answers using text semantics and a BERT transformer model. Correctly generated results with any Wikipedia article or text on any topic. <a href="https://cconnerney.github.io/wiki-qa/">(link)</a></li>
   
-<li><strong>Collaborative Filtering Recommendation System:</strong> Recommended movies with the highest predicted rating on unseen content using matrix factorization and Alternating Least Squares.</li>
+<li><strong>Collaborative Filtering Recommendation System:</strong> Recommended movies with the highest predicted rating on unseen content using matrix factorization and Alternating Least Squares. <a href="https://cconnerney.github.io/cf/">(link)</a></li>
 
 </ul>
 
