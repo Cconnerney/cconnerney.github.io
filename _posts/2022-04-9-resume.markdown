@@ -127,19 +127,31 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 <div class="text_cell_render border-box-sizing rendered_html">
 <h2 id="Work-Experience">Work Experience<a class="anchor-link" href="#Work-Experience">&#182;</a></h2><p><em>05/2022- Current</em><br>
 <strong>Carnegie Mellon University CREATE Lab, Data Scientist</strong><br>
-Designed and developed a tool to source and validate data for the Pittsburgh Equity Project. Performed casual analysis, created maps and visualizations, and wrote reports to inform policy. </p>
+•	Designed and developed a tool to source and validate data for the Pittsburgh Equitable Development Project. 
+•	Analyzed 80k rows of census data, performed causal inference and wrote reports to inform local policy.
+ </p>
 <p><em>01/2022-08/2022</em><br>
 <strong>ProCogia, Software Developer</strong><br>
-Led UI design in Figma for a BI tool. Developed a containerized application with a Django framework and Postgres backend and launched the company product with over 10 web pages. </p>
+•	Developed a containerized web application with a Django framework and Postgres backend, launched the company product with 10+ web pages. 
+•	Led UI design in Figma for the internal BI app and delegated tasks to the SWE team. 
+•	Created JavaScript dashboards to provide personalized analytics to 50+ members of the company.
+•	Created a tool for dynamic project assignments to solve scheduling problems and plan for company scaling.
+ </p>
 <p><em>01/2020-06/2021</em><br>
 <strong>Acrisure Insurance, Data Analytics Independent Consultant</strong> <br>
-Developed an ETL system automating generation of Tableau dashboards embedded in client websites, reducing manual work and improving insights. Created a Future Event Predictor model to estimate future investment based on the type, impact, and location of historical events. </p>
+•	Developed an ETL system automating generation of Tableau dashboards embedded in client websites, reducing manual work and increasing availability of insurance claim data and insights.
+•	Created a Future Event Predictor model to estimate future investment based on the impact of historical events.
+ </p>
 <p><em>01/2020-05/2021</em><br>
 <strong>Center for Organizational Analytics, Data Analytics Project Lead</strong><br>
-Managed intern teams by scoping client projects, delegating analytical tasks, training and providing mentorship, and overseeing the success of each project. Provided analytics to President’s Office at Elon, discovering trends in student behavior and providing Tableau Dashboards. </p>
+•	Managed project teams by coordinating with clients, determining project scope, delegating tasks, training and providing mentorship, and overseeing the success of each project. 
+•	Analyzed 5+ years of student data to predict students’ post-grad activities and provided Tableau dashboards to the President’s Office at Elon, informing the admissions office and academic advisors.
+</p>
 <p><em>05/2020-08/2020</em><br>
 <strong>T. Rowe Price, Data Analytics Intern</strong><br>
-Developed AMERS (Automated Market Event Response System) to automate insights in response to market fluctuations and presented product to 150+ stakeholders. Created a user experience tracking tool comparing web and mobile user behavior, giving insight into how actions affect KPIs.</p>
+•	Developed AMERS (Automated Market Event Response System) to automate insights in response to market fluctuations and presented product to 150+ stakeholders in the individual investors department.
+•	Created a user experience tracking tool comparing web and mobile user behavior, giving insight into how actions affect KPIs and performing conversation rate optimization. 
+</p>
 <p><em>05/2019-08/2019</em><br>
 <strong>Lovelytics, Business Intelligence Intern</strong><br>
 Built 20+ dashboards with customized tools to address client needs and presented insights.</p>
@@ -164,9 +176,9 @@ Minor in Communications<br></p>
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h2 id="Skills">Skills<a class="anchor-link" href="#Skills">&#182;</a></h2><ul>
-<li>Software – Python, Tableau, SQL, JavaScript, HTML, CSS, Rstudio, Figma</li>
-<li>Machine Learning Modeling – Neural Network, HMM, Logistic Regression, Collaborative Filtering Matrix Factorization, Content-Based Recommender Systems, Reinforcement Learning, Q-Learning, Lemmatization, N-Gram, KNN, Perceptron</li>
-<li>High Fluency – SKlearn, BERT, Spacy, GPT2, PyTorch, NLTK, Numpy, Pandas</li>
+<li>Scratch Built – Neural Network, HMM, Logistic Regression, Q-Learning Model, Decision Tree, Lemmatizer, N-Gram, KNN, TF-IDF</li>
+<li>Machine Learning Modeling – SKlearn, BERT, Spacy, GPT2, PyTorch, NLTK, PySpark, huggingface</li>
+<li>High Fluency – Python, SQL, Tableau, JavaScript, HTML, CSS, Rstudio, Figma</li>
 <li>CI/CD pipelines – Jenkins, Istio, Ansible, Vagrant</li>
 </ul>
 
@@ -181,11 +193,11 @@ Minor in Communications<br></p>
 <h2 id="Highlighted-Works">Highlighted Works<a class="anchor-link" href="#Highlighted-Works">&#182;</a></h2><ul>
   
   
-<li><strong>Multilingual RNN Sentiment Classifier:</strong> Built a text classifier with RNNs using BERT embeddings and training with PyTorch, tested model on multiple languages with accuracies over 65%.</li>
+<li><strong>Multilingual RNN Sentiment Classifier:</strong> Built a text classifier with Recurrent Neural Networks using BERT embeddings and training with PyTorch, trained and tested model on multiple languages with accuracies over 65%.</li>
 
-<li><strong>Optical Character Recognizer:</strong> Built an image classification system using a neural network with Adagrad stochastic gradient descent to identify images from the CIFAR-10 computer vision dataset.</li>
+<li><strong>Optical Character Recognizer NN:</strong> Built an image classification system using a neural network with Adagrad stochastic gradient descent to identify images from the CIFAR-10 computer vision dataset with 75% accuracy.</li>
   
-<li><strong>Question Answering System:</strong> Generated questions with a SQuAD T5 model and generated answers using semantic text properties and a BERT transformer model. </li>
+<li><strong>Question Answering System:</strong> Generated questions with a SQuAD T5 model and generated answers using text semantics and a BERT transformer model. Correctly generated results with any Wikipedia article or text on any topic.  </li>
   
 <li><strong>Collaborative Filtering Recommendation System:</strong> Recommended movies with the highest predicted rating on unseen content using matrix factorization and Alternating Least Squares.</li>
 
@@ -207,7 +219,7 @@ WIIS, Women in International Security CMU Chapter</p>
  
 <p><strong>Project Lead</strong><br>
 Managed 2 client projects and intern teams at Elon’s Analytics Center</p>
- 
+  
 </div>
 </div>
 </div>
